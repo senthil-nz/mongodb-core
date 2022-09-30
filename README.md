@@ -1,3 +1,5 @@
+# Note: This forked branch has fixes for MongoDB replicaSet with IPv6 addresses. Still, I would recommend to use [mongodb](https://www.npmjs.com/package/mongodb) as this package is no longer maintained. [Senthil - 30thSept2022]
+
 # Note: This package has been merged into the [mongodb](https://www.npmjs.com/package/mongodb) package, and is no longer being maintained as a standalone package
 
 [![Build Status](https://secure.travis-ci.org/mongodb-js/mongodb-core.png)](http://travis-ci.org/mongodb-js/mongodb-core)
